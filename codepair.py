@@ -1,5 +1,5 @@
-import sys, base64, time, json
-import requests, click, uuid
+import base64, time, json
+import requests, uuid
 import config
 import logging
 
